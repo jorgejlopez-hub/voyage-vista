@@ -1,5 +1,6 @@
 import { Section } from "@/components/Section";
 import { Landing } from "@/components/Landing";
+import { OutroSection } from "@/components/OutroSection";
 
 // Video Imports
 import landingVideo from "@assets/generated_videos/cinematic_waves_at_sunset.mp4";
@@ -66,6 +67,8 @@ export default function Home() {
           videoSrc={dest.video}
         />
       ))}
+
+      <OutroSection />
     </div>
   );
 }

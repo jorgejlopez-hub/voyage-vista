@@ -23,7 +23,7 @@ export function Landing({ destinations, videoSrc }: LandingProps) {
   };
 
   return (
-    <section className="snap-section relative flex items-center">
+    <section id="top" className="snap-section relative flex items-center">
       {/* Background Video */}
       <div className="absolute inset-0 w-full h-full z-0">
         <video
