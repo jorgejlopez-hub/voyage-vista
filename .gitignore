@@ -1,6 +1,44 @@
-node_modules
-dist
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+.cache/
+
+# OS files
 .DS_Store
-server/public
-vite.config.ts.*
-*.tar.gz
+*.swp
+
+# Environment / config
+.env
+.env.*
+
+# Replit-specific
+.replit
+.local/
+*.repl_state*
+*.replit_backup*
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Logs
+logs/
+*.log
+
+# Hosting / tooling
+.vercel
+.netlify
+.vscode/
+.idea/
+
+# Coverage testing and cache
+coverage/
+.turbo
+.parcel-cache
+.eslintcache
+.jest/
