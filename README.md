@@ -61,7 +61,6 @@ Each section includes custom visuals and curated content.
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/jorgejlopez-hub/voyage-vista.git
 cd voyage-vista
 
