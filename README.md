@@ -123,4 +123,4 @@ VoyageVista began on Replit using their AI Agent and was later refined, structur
 Jorge Lopez
 GitHub: https://github.com/jorgejlopez-hub
 
-LinkedIn: https://www.linkedin.com/in/jorgejlopez/
+LinkedIn: https://www.linkedin.com/in/lopezjorgej/
